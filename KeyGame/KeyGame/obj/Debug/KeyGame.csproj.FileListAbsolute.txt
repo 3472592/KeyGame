@@ -1,0 +1,9 @@
+C:\Users\16507\Desktop\C#\Ch4\KeyGame\KeyGame\bin\Debug\KeyGame.exe.config
+C:\Users\16507\Desktop\C#\Ch4\KeyGame\KeyGame\bin\Debug\KeyGame.exe
+C:\Users\16507\Desktop\C#\Ch4\KeyGame\KeyGame\bin\Debug\KeyGame.pdb
+C:\Users\16507\Desktop\C#\Ch4\KeyGame\KeyGame\obj\Debug\KeyGame.csproj.AssemblyReference.cache
+C:\Users\16507\Desktop\C#\Ch4\KeyGame\KeyGame\obj\Debug\KeyGame.Properties.Resources.resources
+C:\Users\16507\Desktop\C#\Ch4\KeyGame\KeyGame\obj\Debug\KeyGame.csproj.GenerateResource.cache
+C:\Users\16507\Desktop\C#\Ch4\KeyGame\KeyGame\obj\Debug\KeyGame.csproj.CoreCompileInputs.cache
+C:\Users\16507\Desktop\C#\Ch4\KeyGame\KeyGame\obj\Debug\KeyGame.exe
+C:\Users\16507\Desktop\C#\Ch4\KeyGame\KeyGame\obj\Debug\KeyGame.pdb
